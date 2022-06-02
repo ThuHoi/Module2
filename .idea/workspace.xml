@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3706e83d-6f3d-47af-b76e-2f27a6020ff8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Module 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/Bai1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Bt_Docsothanhchu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Bt_Hienthiloichao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Th_Bmi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Th_Giaiphuongtrinhbacnhat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Th_Khaibaobien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Th_Sudungtoantu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Th_SystemTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/out/production/Bai1/Th_tinhsongaytrongthang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/src/Bt_Hienthiloichao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/src/Th_Bmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/src/Th_Giaiphuongtrinhbacnhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/src/Th_Khaibaobien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/src/Th_Sudungtoantu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/src/Th_SystemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Introduction Java/src/Th_tinhsongaytrongthang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.De1_QuanLyPhongTro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/AbsoluteNumberCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/Test/AbsoluteNumberCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/out/production/AbsoluteNumberCalculator/AbsoluteNumberCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/out/test/AbsoluteNumberCalculator/AbsoluteNumberCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/AbsoluteNumberCalculator/src/AbsoluteNumberCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/Bt_NextDayCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/Test/NextDayCalculatorTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/out/production/Bt_NextDayCalculator/NextDayCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/out/test/Bt_NextDayCalculator/NextDayCalculatorTestTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_NextDay/src/NextDayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_Triangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_Triangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_Triangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_Triangle/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_Triangle/Bt_Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_Triangle/Test/TriangleClassifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Bt_Triangle/src/TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_AbsoluteNumberCalculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/Test/SimpleCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/Th_UngDungMayTinh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/out/production/Th_UngDungMayTinh/SimpleCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/out/test/Th_UngDungMayTinh/SimpleCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Automated Testing &amp; TDD/Th_UngDungMayTinh/src/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/Bt_ArayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/out/production/Bt_ArayList/MyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/out/production/Bt_ArayList/MyListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_ArayList/src/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_LinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_LinkedList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_LinkedList/Bt_LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_LinkedList/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Bt_LinkedList/src/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/Th_SimpleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/out/production/Th_SimpleClass/MyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/out/production/Th_SimpleClass/MyListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleClass/src/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/Th_SimpleLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/out/production/Th_SimpleLinkedList/MyLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/out/production/Th_SimpleLinkedList/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/out/production/Th_SimpleLinkedList/MyLinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ArrayList_LinkedList/Th_SimpleLinkedList/src/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.DSA-Stack,Queue/Bt_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/11.DSA_Stack_Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/out/production/11.DSA_Stack_Queue/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/out/production/11.DSA_Stack_Queue/thuchanh/GenericStackClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/out/production/11.DSA_Stack_Queue/thuchanh/MyGenericStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/out/production/11.DSA_Stack_Queue/thuchanh/MyLinkedListQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/out/production/11.DSA_Stack_Queue/thuchanh/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/Bt_Stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/Bt_Stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/Bt_Stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/Bt_Stack/Bt_Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/Bt_Stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/Bt_Stack/ReverseArrayIntegerByStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.DSA_Stack_Queue/src/thuchanh/thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/12.Java_Collection_Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/baitap/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/baitap/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/baitap/ProductManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/baitap/SortByPriceDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/baitap/SortByPriceIncrease.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/thuchanh/Comparator_Comparable/AgeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/thuchanh/Comparator_Comparable/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/thuchanh/Comparator_Comparable/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/thuchanh/MapTest/TestMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/thuchanh/Student/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/thuchanh/Student/Student$Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/out/production/12.Java_Collection_Framework/thuchanh/Student/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/baitap/ManagerProduct/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/baitap/ManagerProduct/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/baitap/ManagerProduct/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/baitap/ManagerProduct/SortByPriceDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/baitap/ManagerProduct/SortByPriceIncrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/thuchanh/Comparator_Comparable/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/thuchanh/Comparator_Comparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/thuchanh/Comparator_Comparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/thuchanh/MapTest/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/thuchanh/Student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Java_Collection_Framework/src/thuchanh/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/13.Thuat_toan_tim_kiem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/out/production/13.Thuat_toan_tim_kiem/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/out/production/13.Thuat_toan_tim_kiem/baitap/SortAscending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/out/production/13.Thuat_toan_tim_kiem/optional/FindMaxString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/out/production/13.Thuat_toan_tim_kiem/thuchanh/searchAlgorithm/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/out/production/13.Thuat_toan_tim_kiem/thuchanh/tinhdo_phuctap/AlgorithmComplexityTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/src/baitap/SortAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/src/optional/FindMaxString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/src/thuchanh/searchAlgorithm/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Thuat_toan_tim_kiem/src/thuchanh/tinhdo_phuctap/AlgorithmComplexityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/14.ThuatToan_SapXep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/out/production/14.ThuatToan_SapXep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/out/production/14.ThuatToan_SapXep/baitap/insertSort/Insert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/out/production/14.ThuatToan_SapXep/baitap/insertSort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/out/production/14.ThuatToan_SapXep/thuchanh/bubbleBySortByStep/BubbleBySortByStep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/out/production/14.ThuatToan_SapXep/thuchanh/bubbleSort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/out/production/14.ThuatToan_SapXep/thuchanh/selectSort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/baitap/insertSort/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/baitap/insertSortByStep/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/baitap/insertSortByStep/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/baitap/insertSortByStep/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/baitap/insertSortByStep/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/baitap/insertSortByStep/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/baitap/insertSortByStep/insertSortByStep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/thuchanh/bubbleBySortByStep/BubbleBySortByStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/thuchanh/bubbleSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.ThuatToan_SapXep/src/thuchanh/selectSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/15.Exception_Handing_Debug.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/out/production/15.Exception_Handing_Debug/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/out/production/15.Exception_Handing_Debug/baitap/IllegalTriangleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/out/production/15.Exception_Handing_Debug/thuchanh/arrayIndexOutOfBoundsException/ArrayExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/out/production/15.Exception_Handing_Debug/thuchanh/linearEquationResolver/LinearEquationResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/out/production/15.Exception_Handing_Debug/thuchanh/numberFormatException/CalculationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/src/baitap/IllegalTriangleException2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/src/thuchanh/arrayIndexOutOfBoundsException/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/src/thuchanh/linearEquationResolver/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Exception_Handing_Debug/src/thuchanh/numberFormatException/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/16.IO_TextFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/copy1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/copy2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/country1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/baitap/copyFile/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/baitap/readFile/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/baitap/readFile/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/baitap/readFile/Read.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/thuchanh/ReadFileExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/thuchanh/readWriteFileStudent/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/thuchanh/readWriteFileStudent/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/out/production/16.IO_TextFile/thuchanh/readWriteFileStudent/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/copyFile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/copyFile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/copyFile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/copyFile/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/copyFile/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/copyFile/TestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/copyFile/copyFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/readFile/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/readFile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/baitap/readFile/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/thuchanh/ReadFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/thuchanh/readWriteFileStudent/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/thuchanh/readWriteFileStudent/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.IO_TextFile/src/thuchanh/readWriteFileStudent/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/18.Threading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/oddthread/EvenThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/oddthread/OddThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/oddthread/TestThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/optional/LazyPrimeFactorization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/optional/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/optional/OptimizedPrimeFactorization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/simpleThread/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/simpleThread/NumberGenerator1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/baitap/simpleThread/NumberGenerator2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/thuchanh/demoRunnable/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/thuchanh/demoRunnable/RunnableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/thuchanh/racingCars/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/out/production/18.Threading/thuchanh/racingCars/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/oddthread/EvenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/oddthread/OddThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/oddthread/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/optional/LazyPrimeFactorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/optional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/optional/OptimizedPrimeFactorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/simpleThread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/simpleThread/NumberGenerator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/baitap/simpleThread/NumberGenerator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/thuchanh/demoRunnable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/thuchanh/demoRunnable/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/thuchanh/racingCars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Threading/src/thuchanh/racingCars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/19.String_Regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/baitap/validateClass/ClassNameExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/baitap/validateClass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/baitap/validatePhoneNumber/PhoneNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/baitap/validatePhoneNumber/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/optional/crawlNews/CrawlNews.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/thuchanh/crawlListSong/CrawlSongExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/thuchanh/validateCount/AccountExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/thuchanh/validateCount/AccountExampleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/thuchanh/validateEmail/EmailExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/out/production/19.String_Regex/thuchanh/validateEmail/EmailExampleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/baitap/validateClass/ClassNameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/baitap/validateClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/baitap/validatePhoneNumber/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/baitap/validatePhoneNumber/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/optional/crawlNews/CrawlNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/thuchanh/crawlListSong/CrawlSongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/thuchanh/validateCount/AccountExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/thuchanh/validateCount/AccountExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/thuchanh/validateEmail/EmailExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.String_Regex/src/thuchanh/validateEmail/EmailExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Vonglap/Th_Tinhtienlaichovay/Th_Tinhtienlaichovay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Vonglap/Th_Tinhtienlaichovay/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Vonglap/Vonglap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Vonglap/out/production/Th_Tinhtienlaichovay/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Vonglap/src/Th_Kiemtrasonguyento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/BT-Addindex/BT-Addindex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/BT-Addindex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/BT-Deleteindexarray/BT-Deleteindexarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/BT-Deleteindexarray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-findMax/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-findMax/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-findMax/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-findMax/Bt-findMax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-findMax/out/production/Bt-findMax/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-findMax/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-gopmang/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-gopmang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-gopmang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-gopmang/Bt-gopmang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-gopmang/out/production/Bt-gopmang/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt-gopmang/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Demsolanxuathienkytu/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Demsolanxuathienkytu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Demsolanxuathienkytu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Demsolanxuathienkytu/Bt_Demsolanxuathienkytu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Demsolanxuathienkytu/out/production/Bt_Demsolanxuathienkytu/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Demsolanxuathienkytu/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Fan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Fan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Fan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Fan/Bt_Fan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Fan/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Tongduongcheo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Tongduongcheo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Tongduongcheo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Tongduongcheo/Bt_Tongduongcheo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Tongduongcheo/out/production/Bt_Tongduongcheo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_Tongduongcheo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_findMin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_findMin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_findMin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_findMin/Bt_findMin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_findMin/out/production/Bt_findMin/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Bt_findMin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Max/Max.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Max/src/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Sumofcolumn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Sumofcolumn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Sumofcolumn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Sumofcolumn/Bt_Sumofcolumn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Sumofcolumn/out/production/Sumofcolumn/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Sumofcolumn/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/TH_findMin/TH_findMin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/TH_findMin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Th_Timgiatritrongmang/Timgiatritrongmang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Th_Timgiatritrongmang/find-element-in-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/Th_Timgiatritrongmang/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/covert-temperature/covert-temperature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/covert-temperature/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/out/production/BT-Addindex/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/out/production/BT-Deleteindexarray/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/out/production/Max/Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/out/production/TH_findMin/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/out/production/covert-temperature/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/out/production/find-element-in-array/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/out/production/reverse-array/reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/reverse-array/reverse-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Array/reverse-array/src/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/.idea/4.OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/Bt_Ptbac2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/out/production/Bt_Ptbac2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/out/production/Bt_Ptbac2/QuadraticEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_Ptbac2/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/Bt_XdClassFan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/out/production/Bt_XdClassFan/baitapXaydunglopFan/Fan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/out/production/Bt_XdClassFan/baitapXaydunglopFan/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/src/baitapXaydunglopFan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_XdClassFan/src/baitapXaydunglopFan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/.idea/ (2).gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/.idea/misc (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/.idea/modules (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/Bt_stopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/StopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/out/production/StopWatch/stopWatch/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/out/production/StopWatch/stopWatch/StopWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/src/stopWatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Bt_stopWatch/src/stopWatch/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/Quanlynhanvien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/out/production/Quanlynhanvien/Quanlynhanvien/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/out/production/Quanlynhanvien/Quanlynhanvien/Nhanvien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/src/Quanlynhanvien/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Quanlynhanvien/src/Quanlynhanvien/Nhanvien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/StopWatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/Th_Rectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/out/production/Th_Rectangle/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/out/production/Th_Rectangle/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.OOP/Th_Rectangle/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/Circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/out/production/Circle/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/out/production/Circle/TestCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Circle/src/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/Student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/out/production/Student/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/out/production/Student/TestStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Student/src/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/Th_ClassCar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/out/production/Th_ClassCar/classCar/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/out/production/Th_ClassCar/classCar/TestStaticProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/src/classCar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_ClassCar/src/classCar/TestStaticProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/Th_Static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/out/production/Th_Static/thuchanhstatic/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/out/production/Th_Static/thuchanhstatic/Teststaticmethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/src/thuchanhstatic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Access modifier, Static/Th_Static/src/thuchanhstatic/Teststaticmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/Bt_CircleandCylinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/out/production/Bt_CircleandCylinder/circleandcylinder/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/out/production/Bt_CircleandCylinder/circleandcylinder/CircleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/out/production/Bt_CircleandCylinder/circleandcylinder/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/src/circleandcylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/src/circleandcylinder/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_CircleandCylinder/src/circleandcylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/Bt_point2Dand3D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/out/production/Bt_point2Dand3D/MainTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/out/production/Bt_point2Dand3D/MoveablePoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/out/production/Bt_point2Dand3D/Point2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/out/production/Bt_point2Dand3D/Point3D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/src/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/src/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Bt_point2Dand3D/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/Th_Hecacdoituonghinhhoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Th_Hecacdoituonghinhhoc/src/hinhhoc/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/Bt_Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/out/production/Bt_Triangle/triangle/MainTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/out/production/Bt_Triangle/triangle/MyTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/out/production/Bt_Triangle/triangle/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/src/triangle/MainTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/src/triangle/MyTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.KeThua/Triangle/src/triangle/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/.idea/7.Abstract Class &amp; Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/AbstractClassandInterface/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/Bt_Resizeable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/baitapResizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/baitapResizeable/ResizeableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/colorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/colorable/ColorableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Bt_Resizeable/src/shape/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/Th_AnimaiClasssandinterfaceEdible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/animal/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/animal/Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/animal/Tiger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/edible/Edible.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/fruit/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/fruit/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/fruit/Orange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/out/production/Th_AnimaiClasssandinterfaceEdible/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_AnimaiClasssandinterfaceEdible/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/Th_Comparable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/out/production/Th_Comparable/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/out/production/Th_Comparable/ComparableCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/out/production/Th_Comparable/ComparableCircleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/out/production/Th_Comparable/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/src/thuchanh_Comparable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/src/thuchanh_Comparable/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/src/thuchanh_Comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparable/src/thuchanh_Comparable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparator/Th_Comparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparator/src/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Th_Comparator/src/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Thuchanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Thuchanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Abstract Class &amp; Interface/Thuchanh/Thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/Bai_Thi_Thu_Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/comparator/SortByScoreDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/comparator/SortByScoreUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/controllers/ManagerStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/io/ReadANdWriteFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/models/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/validate/ValidateStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/out/production/Bai_Thi_Thu_Module2/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/comparator/SortByScoreDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/comparator/SortByScoreUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/controllers/ManagerStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/io/ReadANdWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/validate/ValidateStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_Thi_Thu_Module2/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/De1_QuanLyPhongTro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/src/controllers/ManagerHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/src/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/De1_QuanLyPhongTro/src/models/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/QuanLyThuVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/src/controller/QuanLy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/src/model/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyThuVien/src/model/TheMuon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/QuanLy_HoSo_HocSinh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/out/production/QuanLy_HoSo_HocSinh/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/out/production/QuanLy_HoSo_HocSinh/controller/File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/out/production/QuanLy_HoSo_HocSinh/model/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/out/production/QuanLy_HoSo_HocSinh/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/out/production/QuanLy_HoSo_HocSinh/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/src/controller/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/src/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLy_HoSo_HocSinh/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/Quanlykhachsan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/out/production/Quanlykhachsan/comParator/SortByDateOfBirth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/out/production/Quanlykhachsan/comParator/SortById.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/out/production/Quanlykhachsan/comParator/SortByPrice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/out/production/Quanlykhachsan/manage/Hotel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/out/production/Quanlykhachsan/model/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/out/production/Quanlykhachsan/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/out/production/Quanlykhachsan/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/src/comParator/SortByDateOfBirth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/src/comParator/SortById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/src/comParator/SortByPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/src/manage/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/src/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quanlykhachsan/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SampleTestModule2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleTestModule2/src/controller/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/SampleTestModule2/src/controller/StudentManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="293WhpftIsPyHv7QmekMB3H4Jp7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Module 2/De1_QuanLyPhongTro",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3706e83d-6f3d-47af-b76e-2f27a6020ff8" name="Changes" comment="" />
+      <created>1652342371165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652342371165</updated>
+      <workItem from="1652342372430" duration="137000" />
+      <workItem from="1652416234659" duration="139000" />
+      <workItem from="1653252903618" duration="70000" />
+      <workItem from="1654165053014" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

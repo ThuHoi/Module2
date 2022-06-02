@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/BT-Addindex/BT-Addindex.iml" filepath="$PROJECT_DIR$/Array/BT-Addindex/BT-Addindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/BT-Deleteindexarray/BT-Deleteindexarray.iml" filepath="$PROJECT_DIR$/Array/BT-Deleteindexarray/BT-Deleteindexarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1/Bai1.iml" filepath="$PROJECT_DIR$/Bai1/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Bt-findMax/Bt-findMax.iml" filepath="$PROJECT_DIR$/Array/Bt-findMax/Bt-findMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Bt-gopmang/Bt-gopmang.iml" filepath="$PROJECT_DIR$/Array/Bt-gopmang/Bt-gopmang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Max/Max.iml" filepath="$PROJECT_DIR$/Array/Max/Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module 2.iml" filepath="$PROJECT_DIR$/.idea/Module 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/TH_findMin/TH_findMin.iml" filepath="$PROJECT_DIR$/Array/TH_findMin/TH_findMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vonglap/Th_Tinhtienlaichovay/Th_Tinhtienlaichovay.iml" filepath="$PROJECT_DIR$/Vonglap/Th_Tinhtienlaichovay/Th_Tinhtienlaichovay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vonglap/Th_Uocsochung/Th_Uocsochung.iml" filepath="$PROJECT_DIR$/Vonglap/Th_Uocsochung/Th_Uocsochung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Timgiatritrongmang/Timgiatritrongmang.iml" filepath="$PROJECT_DIR$/Array/Timgiatritrongmang/Timgiatritrongmang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vonglap/Vonglap.iml" filepath="$PROJECT_DIR$/Vonglap/Vonglap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/covert-temperature/covert-temperature.iml" filepath="$PROJECT_DIR$/Array/covert-temperature/covert-temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/reverse-array/reverse-array.iml" filepath="$PROJECT_DIR$/Array/reverse-array/reverse-array.iml" />
+    </modules>
+  </component>
+</project>

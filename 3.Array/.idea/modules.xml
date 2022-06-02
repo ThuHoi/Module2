@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array.iml" filepath="$PROJECT_DIR$/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-Addindex/BT-Addindex.iml" filepath="$PROJECT_DIR$/BT-Addindex/BT-Addindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-Deleteindexarray/BT-Deleteindexarray.iml" filepath="$PROJECT_DIR$/BT-Deleteindexarray/BT-Deleteindexarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Max/Max.iml" filepath="$PROJECT_DIR$/Max/Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_findMin/TH_findMin.iml" filepath="$PROJECT_DIR$/TH_findMin/TH_findMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/covert-temperature/covert-temperature.iml" filepath="$PROJECT_DIR$/covert-temperature/covert-temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Timgiatritrongmang/find-element-in-array.iml" filepath="$PROJECT_DIR$/Timgiatritrongmang/find-element-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-array/reverse-array.iml" filepath="$PROJECT_DIR$/reverse-array/reverse-array.iml" />
+    </modules>
+  </component>
+</project>

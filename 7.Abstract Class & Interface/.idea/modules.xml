@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/7.Abstract Class &amp; Interface.iml" filepath="$PROJECT_DIR$/.idea/7.Abstract Class &amp; Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th_AnimaiClasssandinterfaceEdible/Th_AnimaiClasssandinterfaceEdible.iml" filepath="$PROJECT_DIR$/Th_AnimaiClasssandinterfaceEdible/Th_AnimaiClasssandinterfaceEdible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th_Comparable/Th_Comparable.iml" filepath="$PROJECT_DIR$/Th_Comparable/Th_Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th_Comparator/Th_Comparator.iml" filepath="$PROJECT_DIR$/Th_Comparator/Th_Comparator.iml" />
+    </modules>
+  </component>
+</project>

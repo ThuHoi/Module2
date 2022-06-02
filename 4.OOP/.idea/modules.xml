@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4.OOP.iml" filepath="$PROJECT_DIR$/.idea/4.OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bt_Ptbac2/Bt_Ptbac2.iml" filepath="$PROJECT_DIR$/Bt_Ptbac2/Bt_Ptbac2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quanlynhanvien/Quanlynhanvien.iml" filepath="$PROJECT_DIR$/Quanlynhanvien/Quanlynhanvien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th_Rectangle/Th_Rectangle.iml" filepath="$PROJECT_DIR$/Th_Rectangle/Th_Rectangle.iml" />
+    </modules>
+  </component>
+</project>
